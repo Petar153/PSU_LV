@@ -1,0 +1,24 @@
+1.a) Slobodne sobe imaju vecu kolicinu co2 s povecanjem temperature nego zauzete sobe
+I podaci se grupiraju u odredenim djelovima. Primjecujemo da postoji veza izmedu zauzetosti, temperature i co2 kolicine
+b)malo preko 10 tisuca
+c)
+2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
